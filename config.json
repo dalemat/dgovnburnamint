@@ -1,11 +1,11 @@
 {
-    "mainnet": {
+    "homestead": {
         "id": "1",
-        "contractAddress": "",
-        "oldTokenAddress": "",
-        "newTokenAddress": "",
+        "contractAddress": "0x9199ee7e7b1ea2800b5e2c69ad29b0d21c2b2a9f",
+        "oldTokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "newTokenAddress": "0xfd7DF07f4A49bf5bD0E0e8A9F9BDEbF54c8BFD61",
         "inversed": false,
-        "ratio": 10
+        "ratio": 5
     },
     "kovan": {
         "id": "42",
