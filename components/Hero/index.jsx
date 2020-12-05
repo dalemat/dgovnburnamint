@@ -1,5 +1,5 @@
-const mainText = "Send USDT and Get DGOVn Tokens. Only 2,300 DGOVn available for sale "
-const mainDesc = " Week 1 Ratio 5USDT:1DGOVn  Week2 10USDT:1DGOVn    week3 15USDT:1DGOVn         week4 20USDT:1DGOVn"
+const mainText = "Send DAI (Stable USD Token) and Get DGOVn Tokens. Only 2,300 DGOVn available for sale "
+const mainDesc = " Week 1 Ratio 5USD:1DGOVn  Week2 10USD:1DGOVn    week3 15USD:1DGOVn         week4 20USD:1DGOVn"
 export default function Hero({handleConnect}){
     return (
         <div className="flex flex-wrap justify-center items-center md:mt-20">
